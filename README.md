@@ -1,2 +1,2 @@
 # DIO-Jogo-naves-js
-Projeto de jogo de naves desenvolvido em HTML5, CSS3 E JavaScript
+Projeto de jogo de naves desenvolvido em HTML5, CSS3 E JavaScript na plataforma Digital Innovation One
